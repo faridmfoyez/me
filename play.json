@@ -1,0 +1,30 @@
+"channels": [
+            {
+              "_id": "6577c38b31b2fee545230d75",
+              "name": "Bangla Vision",
+              "number": 1,
+              "images": https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/e7924c04-4daa-4056-9339-239a6311f597.png",
+              "url": "https://tvs2.aynaott.com/banglavision/index.m3u8"
+            },
+            {
+              "_id": "6577c38b31b2fee545230d78",
+              "name": "Channel I",
+              "number": 2,
+             "images": https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/e7924c04-4daa-4056-9339-239a6311f597.png",
+              "url": "https://tvs2.aynaott.com/banglavision/index.m3u8"
+            },
+           {
+              "_id": "6577c38b31b2fee545230d75",
+              "name": "Bangla Vision",
+              "number": 3,
+              "images": https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/e7924c04-4daa-4056-9339-239a6311f597.png",
+              "url": "https://tvs2.aynaott.com/banglavision/index.m3u8"
+            },
+            {
+              "_id": "6577c38b31b2fee545230d78",
+              "name": "Channel I",
+              "number": 4,
+             "images": https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/e7924c04-4daa-4056-9339-239a6311f597.png",
+              "url": "https://tvs2.aynaott.com/banglavision/index.m3u8"
+            }
+]

@@ -1,0 +1,61 @@
+{
+  "name": "Toffee App All Channel Link with Headers",
+  "channels_amount": 5,
+  "updated_on": "14-01-2025 on 6:38:51 PM \ud83c\udf19",
+  "channels": [
+    {
+      "id": "EuroSportHD",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8",
+      "headers": {
+        "Host": "bldcmprod-cdn.toffeelive.com",
+        "origin": "https://toffeelive.com",
+        "referer": "https://toffeelive.com/",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1737031058:KeyName=prod_linear:Signature=Zh8Kf8aeaoKzqIqNkPU5bkGaRtiCatwUTMzAN0pV0OUaGZuoK5K0MUQ68rELTImJVLtSXj-NtcdbG-k6htaJDw",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0 AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+      }
+    },
+    {
+      "id": "Sony1",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8",
+      "headers": {
+        "Host": "bldcmprod-cdn.toffeelive.com",
+        "origin": "https://toffeelive.com",
+        "referer": "https://toffeelive.com/",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1737031058:KeyName=prod_linear:Signature=Zh8Kf8aeaoKzqIqNkPU5bkGaRtiCatwUTMzAN0pV0OUaGZuoK5K0MUQ68rELTImJVLtSXj-NtcdbG-k6htaJDw",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0 AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+      }
+    },
+    {
+      "id": "Sony2",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8",
+      "headers": {
+        "Host": "bldcmprod-cdn.toffeelive.com",
+        "origin": "https://toffeelive.com",
+        "referer": "https://toffeelive.com/",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1737031058:KeyName=prod_linear:Signature=Zh8Kf8aeaoKzqIqNkPU5bkGaRtiCatwUTMzAN0pV0OUaGZuoK5K0MUQ68rELTImJVLtSXj-NtcdbG-k6htaJDw",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0 AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+      }
+    },
+    {
+      "id": "Sony5",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8",
+      "headers": {
+        "Host": "bldcmprod-cdn.toffeelive.com",
+        "origin": "https://toffeelive.com",
+        "referer": "https://toffeelive.com/",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1737031058:KeyName=prod_linear:Signature=Zh8Kf8aeaoKzqIqNkPU5bkGaRtiCatwUTMzAN0pV0OUaGZuoK5K0MUQ68rELTImJVLtSXj-NtcdbG-k6htaJDw",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0 AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+      }
+    },
+    {
+      "id": "SonyTen",
+      "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8",
+      "headers": {
+        "Host": "bldcmprod-cdn.toffeelive.com",
+        "origin": "https://toffeelive.com",
+        "referer": "https://toffeelive.com/",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1737031058:KeyName=prod_linear:Signature=Zh8Kf8aeaoKzqIqNkPU5bkGaRtiCatwUTMzAN0pV0OUaGZuoK5K0MUQ68rELTImJVLtSXj-NtcdbG-k6htaJDw",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0 AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+      }
+    }
+  ]

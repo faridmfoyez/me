@@ -1,7 +1,4 @@
 {
-  "name": "Toffee App All Channel Link with Headers",
-  "channels_amount": 5,
-  "updated_on": "14-01-2025 on 6:38:51 PM \ud83c\udf19",
   "channels": [
     {
       "id": "EuroSportHD",
@@ -59,3 +56,4 @@
       }
     }
   ]
+}

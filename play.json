@@ -1,18 +1,4 @@
-[
-  {
-   "channelId": "70e97db9-5a9e-4642-874e-af3d30ba9925",           
-   "channelName": "RTV",
-   "channelLogo": "https://i.ibb.co.com/8j6zYwP/rtvbd-Farid.jpg",
- },
- {
-   "channelId": "21e75798-3b6a-4214-9d93-b3fecaa4e700",           
-   "channelName": "Bangla Vision",
-   "channelLogo": "https://i.ibb.co.com/8j6zYwP/rtvbd-Farid.jpg",
- },
- {
-   "channelId": "1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d",           
-   "channelName": "NTV",
-   "channelLogo": "https://i.ibb.co.com/8j6zYwP/rtvbd-Farid.jpg",
- },           
-           
-]
+"tokens": {
+  "jadoo_refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDYzMzQwODksIm5iZiI6MTc0NjMzNDA4OSwianRpIjoiNDZmMzUzYmUtOGIzZC00ZmNiLTg4MzQtY2IyYjIzMTVlZTBjIiwiZXhwIjoxNzQ2OTM4ODg5LCJpZGVudGl0eSI6eyJpZCI6ImY1MjM4OGQ1MjM0YjQ0NTk4MjE3ZGM1MGNiYmIxNGUzIiwiZG9tYWluIjoiYWYxZGQ4NmMzZmI4NDQ4ZTg3YmI3NzcwMDAwYzkzMGMiLCJwYWNrYWdlIjoiNDI2MTIwZjhkZjY3NDRiZjg0MDU5ODRmZjY5YzU0NzEifSwidHlwZSI6InJlZnJlc2gifQ.RfrpY_yTMdJJbXsyadc-u3MaPt7RJtkoLhp6AUohyns",
+  "ayna_access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNDkxNDljOWQtM2E0My00NmZkLTk4NGMtYmU2MzAyNGNjYjA0Iiwib3BlcmF0b3JJZCI6IjFmYjFiNGM3LWRiZDktNDY5ZS04OGEyLWMyMDdkYzE5NTg2OSIsImdlb0lwUnVsZXMiOnsiZDE3MjUwYTMtMzk4NS00OWJjLWFlOGMtZmU3Y2JiNjA0MDhjIjp0cnVlfSwiZ2VvTG9jYXRpb24iOnsiY291bnRyeSI6IkJEIiwiY2l0eSI6IkRoYWthIiwiaXAiOiIxMDMuMTk4LjEzMi4yMDUifSwiZGV2aWNlSWQiOiI3MkM1MzYzNzQwNEI5MDJEQjA2N0VBQkEwNjNFNkI1QiJ9LCJpYXQiOjE3NDYzMzQxNDksImV4cCI6MTc0NjM3NzM0OX0.fC-bK1eNqZ-xZMkF7CzABs-QXkhtmYybGsEPEFjX1Ac"
+}

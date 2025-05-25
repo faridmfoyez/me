@@ -1,33 +1,33 @@
 [
     {
-        "name": "Sky Sports Cricket",
-        "id": "65",
-        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/9-by-xfireflix.png",
-        "link": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODNhYTQ0NThkMGFlLTU5MjgtMzFiNC1mZjBhLTJlMTMyZjcw/master.m3u8?md5=DWZZv7Vt5IInoBKHSB6ucw&expires=1748224028&t=1748180828"
+        "name": "Jamuna News",
+        "id": "jamunatv",
+        "logo": "https://edge01.iptv.digijadoo.net/static/jamuna_tv.png",
+        "link": "https://flix.faridflix.xyz/bd.php/jamuna-test-sample-ok.m3u8"
     },
     {
-        "name": "TNT 1",
-        "id": "31",
-        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/tnt.png",
-        "link": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZDhjYjQxNzAzYjYxLTVjNmItN2RiNC1jZDllLWNhODgwZWMz/master.m3u8?md5=Q5YDl1WvaxfP190rwFDvSA&expires=1748223669&t=1748180469"
+        "name": "BTV",
+        "id": "btv",
+        "logo": "https://i.ibb.co.com/9901CGJN/btv.png",
+        "link": "https://flix.faridflix.xyz/bdx.php/1709.m3u8"
     },
     {
-        "name": "TNT 2",
-        "id": "32",
-        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/tnt.png",
-        "link": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZTQzN2IyMGM2NWQ1LTc4OWItYzE1NC1hZmYwLWZhNzIzODE0/master.m3u8?md5=aT4Mhm24jbksMyAiK3XPTQ&expires=1748223739&t=1748180539"
+        "name": "GTV",
+        "id": "gazitv",
+        "logo": "https://edge01.iptv.digijadoo.net/static/gazi_tv.png",
+        "link": "https://flix.faridflix.xyz/bd.php/gazibdz.m3u8"
     },
     {
-        "name": "TNT 3",
-        "id": "33",
-        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/tnt.png",
-        "link": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YmE5M2JiOTU4NmJhLTNjM2ItMThhNC0yZDJhLWNlNTQ5YWE2/master.m3u8?md5=884sUH5yKK9huFPVCpJoTQ&expires=1748223830&t=1748180630"
+        "name": "ATN Bangla",
+        "id": "atnb",
+        "logo": "https://edge01.iptv.digijadoo.net/static/atn_bangla.png",
+        "link": "https://flix.faridflix.xyz/bdx.php/1722.m3u8"
     },
     {
-        "name": "TNT 4",
-        "id": "34",
-        "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/tnt.png",
-        "link": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTZmNzM1YWJkNThlLWQwYjktZTczNC0xMTg3LTkzMGYxZjQ4/master.m3u8?md5=cKINglNNQJkx5FmD7IHy7g&expires=1748223920&t=1748180720"
+        "name": "ATN News",
+        "id": "atnn",
+        "logo": "https://edge01.iptv.digijadoo.net/static/atn_news.png",
+        "link": "https://flix.faridflix.xyz/bdx.php/1706.m3u8"
     }
 ]    
     

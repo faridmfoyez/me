@@ -24,8 +24,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="Sports",T Sports
-#EXTVLCOPT:http-referer=https://tv.mymoviebazar.net/
-https://tv.mymoviebazar.net/stream/stream56.m3u8
+https://tv.mymoviebazar.net/stream/stream56.m3u8?|referer=https://tv.mymoviebazar.net/
 
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-junior.png" group-title="Kids",Disney JR
 #EXTVLCOPT:http-origin=https://alldownplay.xyz

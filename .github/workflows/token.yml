@@ -21,7 +21,7 @@ jobs:
       - name: Fetch json content
         id: fetch
         run: |
-          if curl -sLf "${{ secrets.aytkn }}" -o token1.json; then
+          if curl -sLf "${{ secrets.AYTKN }}" -o token1.json; then
             echo "status=success" >> $GITHUB_OUTPUT
             echo "Download successful"
           else
